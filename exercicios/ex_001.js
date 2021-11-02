@@ -27,7 +27,8 @@
 // 06 - Declare uma variável com o identificador 'nome' e atribua a ela o valor [Seu Nome](string).
 
 
-// 07 - Declare uma variável com o identificador 'concat' e atribua a ela a concatenação entre as variáveis saudacao e nome.
+// 07 - Declare uma variável com o identificador 'concat' e atribua a ela a concatenação entre as variáveis saudacao e nome com um valor
+//string de vírgula entre elas.
 
 
 // 08 - Declare uma variável com o identificador 'mult' e atribua a ela a multiplicação dos valores 3(number) e 5(number).
