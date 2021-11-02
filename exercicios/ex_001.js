@@ -28,7 +28,7 @@
 
 
 // 07 - Declare uma variável com o identificador 'concat' e atribua a ela a concatenação entre as variáveis saudacao e nome com um valor
-//string de vírgula entre elas.
+//string de vírgula e espaço entre elas.
 
 
 // 08 - Declare uma variável com o identificador 'mult' e atribua a ela a multiplicação dos valores 3(number) e 5(number).
@@ -43,24 +43,35 @@
 // 11 - Declare uma variável com o identificador 'incremento' e atribua a ela o valor 4(number).
 // Na linha abaixo use o operador de incremento nesta mesma variável
 
+
+
 // 12 - Declare uma variável com o identificador 'decremento' e atribua a ela o valor 100(number).
 // Na linha abaixo use o operador de decremento nesta mesma variável.
 
+
+
 // 13 - Declare uma variável com o identificador 'logic1' e atribua a ela o valor VERDADEIRO(boolean) em Javascript.
 
+
 // 14 - Declare uma variável com o identificador 'logic2' e atribua a ela o valor FALSO(boolean) em Javascript.
+
 
 // 15 - Declare uma variável com o identificador 'logic3' que receba uma operação booleana que compare os valores das variáveis
 // soma e sub.
 
+
 // 16 - Declare uma variável com o identificador 'logic4' que receba uma operação booleana que compare os valores da variável
 // mult e o valor numérico 15.
 
+
 // 17 - Diminua -3 do valor atual da variável soma já declarada, usando o operador de atribuição de subtração "-="
+
 
 // 18 - Adicione +8 do valor atual da variável sub já declarada, usando o operador de atribuição de soma "+="
 
+
 // 19 - Divida por 2 o valor atual da variável mult já declarada, usando o operador de atribuição de divisão "/="
+
 
 // 20 - Multiplique por 3 o valor atual da variável sub já declarada, usando o operador de atribuição de multiplicação "*="
 
