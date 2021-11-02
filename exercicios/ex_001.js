@@ -9,7 +9,7 @@
 // 01 - Declare uma variável com o identificador 'var1' sem inicializá-la. (sem atribuir nenhum valor)
 // 01.1 - Qual o tipo deste valor? Lembre sempre de usar o DevTools do Chrome para fazer seus testes.
 // resposta 01.1 -> 
-// DICA: typeof nomeDaVariavel
+// DICA: use o operador typeof para fazer seus testes no DevTools
 
 
 // 02 - Declare uma variável com o identificador 'num' e atribua um valor do tipo Number.
@@ -40,14 +40,12 @@
 // 10 - Declare uma variável com o identificador 'resto1' e atribua a ela o resto da divisão entre os valores 10(number) e 2(number).
 
 
-// 11 - Declare uma variável com o identificador 'incremento' e atribua a ela o valor 4(number).
+// 11 - Declare uma variável com o identificador 'incremento' e atribua a ela o valor 5(number).
 // Na linha abaixo use o operador de incremento nesta mesma variável
-
 
 
 // 12 - Declare uma variável com o identificador 'decremento' e atribua a ela o valor 100(number).
 // Na linha abaixo use o operador de decremento nesta mesma variável.
-
 
 
 // 13 - Declare uma variável com o identificador 'logic1' e atribua a ela o valor VERDADEIRO(boolean) em Javascript.
