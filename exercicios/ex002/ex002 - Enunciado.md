@@ -2,7 +2,7 @@
 
 **01 - Crie um arquivo HTML com o nome ex002.html**
 
-**02 - No arquivo criado, adicione uma estrutura de um documento HTML5**
+**02 - No arquivo criado, adicione uma estrutura de um documento HTML5 de linguagem português do Brasil**
 
 **03 - Altere o título do documento para "EX 001"**
 
