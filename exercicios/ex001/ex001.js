@@ -54,24 +54,26 @@
 // 14 - Declare uma variável com o identificador 'logic2' e atribua a ela o valor FALSO(boolean) em Javascript.
 
 
-// 15 - Declare uma variável com o identificador 'logic3' que receba uma operação booleana que compare os valores das variáveis
-// soma e sub.
+// 15 - Declare uma variável com o identificador 'logic3' que receba uma operação booleana que compare se 
+// os valores das variáveis soma e sub são iguais.
 
 
-// 16 - Declare uma variável com o identificador 'logic4' que receba uma operação booleana que compare os valores da variável
-// mult e o valor numérico 15.
+// 16 - Declare uma variável com o identificador 'logic4' que receba uma operação booleana que compare se a variável
+// mult e o valor numérico 15 são iguais.
 
 
-// 17 - Diminua -3 do valor atual da variável soma já declarada, usando o operador de atribuição de subtração "-="
+// 17 - Diminua -3 do valor atual da variável 'soma' já declarada, usando o operador de atribuição de subtração "-="
 
 
-// 18 - Adicione +8 do valor atual da variável sub já declarada, usando o operador de atribuição de soma "+="
+// 18 - Adicione +8 do valor atual da variável 'sub' já declarada, usando o operador de atribuição de soma "+="
 
 
-// 19 - Divida por 2 o valor atual da variável mult já declarada, usando o operador de atribuição de divisão "/="
+// 19 - Divida por 2 o valor atual da variável 'mult' já declarada, usando o operador de atribuição de divisão "/="
 
 
-// 20 - Multiplique por 3 o valor atual da variável sub já declarada, usando o operador de atribuição de multiplicação "*="
+// 20 - Multiplique por 3 o valor atual da variável 'sub' já declarada, usando o operador de atribuição de multiplicação "*="
+
+
 
 /* 
 =============================================================
