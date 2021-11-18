@@ -1,4 +1,4 @@
-## Exercício 002
+## Exercício 003
 
 **01 - Renomeie o arquivo Text.html para ex003.html**
 
